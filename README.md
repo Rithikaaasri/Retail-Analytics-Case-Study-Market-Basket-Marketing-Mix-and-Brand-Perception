@@ -1,5 +1,4 @@
-<img width="1090" height="871" alt="image" src="https://github.com/user-attachments/assets/39bf62dc-53bb-4034-b358-f86aa15f0b8d" />
-
+<img width="1090" height="871" alt="image" src="https://github.com/user-attachments/assets/d137f8a6-8594-4c36-9f67-ec53d70081cf" />
 
 # 🛒 Retail Analytics Case Study  
 
